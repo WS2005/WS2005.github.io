@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I is one cool kid
+Blogs are annoying
 
 ### More Information
-
-i am the best at stuff
+My blogs aren't very good
 
 ### Contact me
 
