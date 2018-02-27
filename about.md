@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Blogs are annoying
+Welcome to my blogging page.
 
 ### More Information
-My blogs aren't very good
+These are my weekly blogs about my computing lessons
 
 ### Contact me
 
