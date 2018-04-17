@@ -1,5 +1,5 @@
 ---
-title: Year 8 Computing Blog 7
+title: Computing Blog 7
 layout: post
 author: william.stubbs
 permalink: /year-8-computing-blog-7/
